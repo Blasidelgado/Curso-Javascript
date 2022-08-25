@@ -1,0 +1,26 @@
+.seccion {
+    background-color: lightsalmon;
+    padding: 20px;
+    margin-top: 40px;
+}
+.seccion:first-of-type {
+    margin-top: 0;
+}
+
+.parrafo {
+    background-color: brown;
+    padding: 10px;
+}
+
+.dragging {
+    opacity: 0.5;
+}
+
+.trash {
+    width: 20%;
+    margin: 0 auto;
+
+}
+.trash img {
+    width: 100%;
+}
